@@ -35,7 +35,7 @@ Requirements: Present data for each KPI on monthly basis for current and previou
 
 </br>
 <div align = "center" >
-  <img width="892" alt="Screenshot 2024-07-31 at 1 43 52 PM" src="https://github.com/user-attachments/assets/2b48071b-d291-45f0-907c-b477dfa09678">
+  <img width="600" alt="Screenshot 2024-07-31 at 1 43 52 PM" src="https://github.com/user-attachments/assets/2b48071b-d291-45f0-907c-b477dfa09678">
 </div>
 </br>
 
