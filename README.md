@@ -6,8 +6,11 @@ In this Project, I created Tableau dashboards according to the specifications of
 
 The requirements of the Sales and Customer databoard were based on the clients specifications for them, detailed in the user stories below 
 
+<div align = "center"
 <img width="916" alt="Screenshot 2024-07-30 at 4 23 57 PM" src="https://github.com/user-attachments/assets/06f8c28f-62cc-471a-a5f6-4523d7db7ebf">
 <img width="913" alt="Screenshot 2024-07-30 at 4 24 11 PM" src="https://github.com/user-attachments/assets/63f3f842-8193-41dd-b3fe-7b424a2c949f">
+</div>
+
 </br> 
 
 From the user stories above, I decided to break down each requirement individually, getting a better idea of what sort of chart I wanted to use to visualise and present the data with. 
