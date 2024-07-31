@@ -20,11 +20,9 @@ From the user stories above, I decided to break down each requirement individual
 # Sales Dashboard Breakdown
 
 ## KPI Overview 
-
-Requirements: Display a summary of total sales, profit and quantity for the current year and the previous year.
+Display a summary of total sales, profit and quantity for the current year and the previous year.
 
 ### Sales Trends
-
 Requirements: Present data for each KPI on monthly basis for current and previous year. Identify months with highest and lowest sales. 
 
 **KPIs on a monthly basis:** Use multiple-line chart for each KPI to observe change over time (months) and compare current year KPI to previous year. 
@@ -40,26 +38,87 @@ Requirements: Present data for each KPI on monthly basis for current and previou
 </br>
 
 ### Product Subcategory Comparison
-
 Requirements: Compare Sales performance by different subcategories for current and previous year, including a comparison of profit and sales. 
 
 **Subcategory Sales Performance:** Multiple-bar chart, altering the size of bar and colours, to compare the current vs previous year sales of product subcategory
 
 **Profit and Sales Comparison:** Accompany bar chart colour coded to signify losses and profits of product categories. 
 
-### Weekly Trends for Sales and Profits 
+</br>
+<div align = "center" >
+  <img width="870" alt="Screenshot 2024-07-31 at 1 44 08 PM" src="https://github.com/user-attachments/assets/008689e5-4b26-43f4-945d-5397473c1f47">
+</div>
+</br>
 
+### Weekly Trends for Sales and Profits 
 Requirements: Weekly sales and profit data of current year, display average weekly values and highlight weeks above and below average
 
 **Average Weekly Sales and Profits:** Create 2 step line charts for each KPI, with X-axis being the weeks of the current year. 
 
 **Highlight weeks above and below avg:** Create referrence lines based on the the chart's average value. Indicate using the above colour scheme, values above and below the average. 
 
+</br>
+<div align = "center" >
+  <img width="891" alt="Screenshot 2024-07-31 at 1 44 30 PM" src="https://github.com/user-attachments/assets/6a9df462-e06d-40b1-9a69-47a6d8eac33a">
+</div>
+</br>
+
+# Cuatomer Dashboard
+
+## KPI Overview 
+Summary of total customers, total sales per customer & total number of orders for current and previous year. 
+
+### Customer Trends
+Requirements: Present data for each KPI on monthly basis for current and previous year, identify highest and lowest values. 
+
+**Presenting Multiple KPIs:** Same format as the Sales Trends, change to the corresponding KPI. 
+
+</br>
+<div align = "center" >
+  <img width="890" alt="Screenshot 2024-07-31 at 8 02 24 PM" src="https://github.com/user-attachments/assets/451af7c5-6466-4eba-8a44-8296f5dc435c">
+</div>
+</br>
+
+### Customer distribution by Number od Orders
+Requirements: Distribution of Customers based on number of orders, provide insights on customer behaviour, loyalty and enagagement. 
+
+**Customer distribution by number of orders:** Use a histrogram to display the distribution. 
+
+</br>
+<div align = "center" >
+  <img width="500" alt="Screenshot 2024-07-31 at 8 02 39 PM" src="https://github.com/user-attachments/assets/3df29792-8781-4b93-b1b6-134647288016">
+</div>
+</br>
+
+### Top 10 Customers by Profit
+Requirements: Present top 10 customers based on profit generated, with additional info like rank, current sales, current profit and last order. 
+
+**Top 10 Customer Insights:** Create a table with the rows as customer names and the columns as the info required 
+
+</br>
+<div align = "center" >
+  <img width="460" alt="Screenshot 2024-07-31 at 8 02 58 PM" src="https://github.com/user-attachments/assets/834ea6e7-e090-49c7-936c-6e5e81347d68">
+</div>
+</br>
+
 ### Calculated Fields
 
 **Current Year vs Previous Year:** Calculated fields for current year and previous year are needed in the creation of other calculated field, such as Current/Previous Year (C/PY) Sales/Profits to be displayed on their respective charts. A "Select Year" filter is used to change the year displayed on the chart. 
 
 **Aggregate Functions:** To display Highest and Lowest values, % change values, average Sales/Profit values, etc, aggregate functions need to be used in the calculated fields. 
+
+# Final Dashboard Design 
+
+This is the final Sales and Customer Dashboard design. The top most banner includes the Company Logo, Dashboard Name, current Year it displays and 3 Buttons that allow for navigation and showing and hiding for filters.
+The second banner below it consists of the charts of the requested KPIs, and a legend indicating what the colours correspond to. 
+The last banner below it includes 2 charts, displaying the specified information from the requirements.
+
+</br>
+<div align = "center" >
+  <img width="900" alt="Screenshot 2024-07-31 at 8 16 27 PM" src="https://github.com/user-attachments/assets/9d234090-4521-4d30-a48c-89d6890f40b8">
+</div>
+</br>
+
 
 ## Design and Interactivty Requirements 
 
