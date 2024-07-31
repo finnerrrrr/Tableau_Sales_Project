@@ -30,6 +30,9 @@ Requirements: Present data for each KPI on monthly basis for current and previou
 **Month with highest and lowest sales:** use colour coded circles to indicate the points in the line chart with the highest and lowerst values. 
 
 **Presenting Multiple KPIs:** Create a banner to fit all the respective KPI charts and include the KPI totals and %change compared to the previous year in the chart's title. Readers can get an idea of the figures and performance of the KPIs in a glance. 
+</br>
+<div align = "center" <img width="892" alt="Screenshot 2024-07-31 at 1 43 52 PM" src="https://github.com/user-attachments/assets/2b48071b-d291-45f0-907c-b477dfa09678"> </div>
+</br>
 
 ### Product Subcategory Comparison
 
