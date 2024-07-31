@@ -6,7 +6,7 @@ In this Project, I created Tableau dashboards according to the specifications of
 
 The requirements of the Sales and Customer databoard were based on the clients specifications for them, detailed in the user stories below 
 
-<div align = "center"
+<div align = "center">
   
 <img width="916" alt="Screenshot 2024-07-30 at 4 23 57 PM" src="https://github.com/user-attachments/assets/06f8c28f-62cc-471a-a5f6-4523d7db7ebf">
 <img width="913" alt="Screenshot 2024-07-30 at 4 24 11 PM" src="https://github.com/user-attachments/assets/63f3f842-8193-41dd-b3fe-7b424a2c949f">
@@ -34,11 +34,9 @@ Requirements: Present data for each KPI on monthly basis for current and previou
 **Presenting Multiple KPIs:** Create a banner to fit all the respective KPI charts and include the KPI totals and %change compared to the previous year in the chart's title. Readers can get an idea of the figures and performance of the KPIs in a glance. 
 
 </br>
-
-<div align = "center" 
+<div align = "center" >
   <img width="892" alt="Screenshot 2024-07-31 at 1 43 52 PM" src="https://github.com/user-attachments/assets/2b48071b-d291-45f0-907c-b477dfa09678">
 </div>
-
 </br>
 
 ### Product Subcategory Comparison
