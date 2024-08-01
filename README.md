@@ -63,7 +63,7 @@ Requirements: Weekly sales and profit data of current year, display average week
 </div>
 </br>
 
-# Cuatomer Dashboard
+# Cuatomer Dashboard Breakdown 
 
 ## KPI Overview 
 Summary of total customers, total sales per customer & total number of orders for current and previous year. 
