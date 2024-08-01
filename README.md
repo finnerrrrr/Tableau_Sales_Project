@@ -124,6 +124,12 @@ The last banner below it includes 2 charts, displaying the specified information
 
 **Navigation between dashboards:** Create button to navigate between the Customer and Sales dashboards
 
+</br>
+<div align = "center" >
+  ![Screen Recording 2024-08-01 at 10 18 11 AM](https://github.com/user-attachments/assets/db7612f7-96dc-4b6f-8012-0390b797b1ac)
+</div>
+</br>
+
 **Interactive charts and graphs, filter data using charts:** Enable charts to be used as filters, in the dashboard. 
 
 **Check historical data by selecting desired year:** Create Parameter for "Select Year" to input dynamic values for calculation and user interactions. 
