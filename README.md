@@ -126,17 +126,31 @@ The last banner below it includes 2 charts, displaying the specified information
 
 </br>
 <div align = "center" >
-  ![Screen Recording 2024-08-01 at 10 18 11 AM](https://github.com/user-attachments/assets/db7612f7-96dc-4b6f-8012-0390b797b1ac)
+  <img width="210" alt="Screenshot 2024-08-01 at 10 35 37 AM" src="https://github.com/user-attachments/assets/1235946d-da73-484d-8441-dc6ce90e679a">
+  <img width="210" alt="Screenshot 2024-08-01 at 10 41 36 AM" src="https://github.com/user-attachments/assets/ec9db3e6-f7d4-4d85-a630-32d30fc3912f">
 </div>
 </br>
+Clicking on the buttons with icons representing the 2 different dashboards and navigates to them respectively. The icon shaded white indicates which dashboard is currently on view. 
 
-**Interactive charts and graphs, filter data using charts:** Enable charts to be used as filters, in the dashboard. 
+**Interactive charts and graphs, filter data using charts:** Enable charts to be used as filters, in the dashboard.
+
+</br>
+<div align = "center" >
+  <img width="900" alt="Screenshot 2024-08-01 at 10 39 57 AM" src="https://github.com/user-attachments/assets/1b0dbcb7-5efe-4798-8b1f-a8d6d48598ae">
+</div>
+</br>
+Users can click on a chart element, such as a bar in a bar chart or a point in a line plot, to filter the entire dashboard based on that selection. This interactivity allows users to explore the data dynamically and uncover insights that might not be apparent from static views. Users can also quickly access and analyze relevant data without having to manually set multiple filters. This efficiency is particularly beneficial in real-time data analysis scenarios where timely insights are critical.
 
 **Check historical data by selecting desired year:** Create Parameter for "Select Year" to input dynamic values for calculation and user interactions. 
 
 **Category, subcategory, region, state, city filters:** Include these filters in the dashboard to control and restrict the visibility of data in all charts. 
+</br>
+<div align = "center" >
+<img width="205" alt="Screenshot 2024-08-01 at 10 32 08 AM" src="https://github.com/user-attachments/assets/94198f2c-afd7-4958-83e2-a52c88521ee3">
+<img width="900" alt="Screenshot 2024-08-01 at 10 31 58 AM" src="https://github.com/user-attachments/assets/3af07ad9-6b78-4baf-9ec8-8a5a485b048d">
+</div>
+</br>
 
-
-
+The drop down filter buttton displays the fields readers can filter the data from. Its user-friendly interface is easy and intiutive to use, with a simple and clean panel design that is unobstrusive. Applying filters updates the dashboard visuals in real-time, providing instant feedback and insights. Users can also combine multiple filters to create custom views, tailoring the data to their specific needs and questions.
 
 
