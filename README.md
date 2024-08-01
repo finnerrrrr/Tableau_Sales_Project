@@ -142,6 +142,7 @@ Clicking on the buttons with icons representing the 2 different dashboards and n
 Users can click on a chart element, such as a bar in a bar chart or a point in a line plot, to filter the entire dashboard based on that selection. This interactivity allows users to explore the data dynamically and uncover insights that might not be apparent from static views. Users can also quickly access and analyze relevant data without having to manually set multiple filters. This efficiency is particularly beneficial in real-time data analysis scenarios where timely insights are critical.
 
 </br>
+
 ## **Check historical data by selecting desired year:** Create Parameter for "Select Year" to input dynamic values for calculation and user interactions. 
 
 ## **Category, subcategory, region, state, city filters:** Include these filters in the dashboard to control and restrict the visibility of data in all charts. 
