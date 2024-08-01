@@ -155,4 +155,10 @@ Users can click on a chart element, such as a bar in a bar chart or a point in a
 
 The drop down filter buttton displays the fields readers can filter the data from. Its user-friendly interface is easy and intiutive to use, with a simple and clean panel design that is unobstrusive. Applying filters updates the dashboard visuals in real-time, providing instant feedback and insights. Users can also combine multiple filters to create custom views, tailoring the data to their specific needs and questions.
 
+# Conclusion
+
+Through this Data Visualisation project using Tableau, I learned to translate requirements of the user into dynamic visualisations and create a dynamic dashboard that both technical and non-technical user can use and benefit from. 
+
+Creating a dashboard is more than just dragging and dropping charts and worksheets. A lot of design considerations were made to create a clean and intuitive design, making sure important metrics were highlighted through formatting and spacing. The creation and use of calculated fields were also crucial in crafting the charts, exactly to what was specified in the requirements of the user. 
+
 
