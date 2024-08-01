@@ -132,7 +132,7 @@ The last banner below it includes 2 charts, displaying the specified information
 </br>
 Clicking on the buttons with icons representing the 2 different dashboards and navigates to them respectively. The icon shaded white indicates which dashboard is currently on view. 
 
-**Interactive charts and graphs, filter data using charts:** Enable charts to be used as filters, in the dashboard.
+## **Interactive charts and graphs, filter data using charts:** Enable charts to be used as filters, in the dashboard.
 
 </br>
 <div align = "center" >
@@ -141,9 +141,10 @@ Clicking on the buttons with icons representing the 2 different dashboards and n
 </br>
 Users can click on a chart element, such as a bar in a bar chart or a point in a line plot, to filter the entire dashboard based on that selection. This interactivity allows users to explore the data dynamically and uncover insights that might not be apparent from static views. Users can also quickly access and analyze relevant data without having to manually set multiple filters. This efficiency is particularly beneficial in real-time data analysis scenarios where timely insights are critical.
 
-**Check historical data by selecting desired year:** Create Parameter for "Select Year" to input dynamic values for calculation and user interactions. 
+</br>
+## **Check historical data by selecting desired year:** Create Parameter for "Select Year" to input dynamic values for calculation and user interactions. 
 
-**Category, subcategory, region, state, city filters:** Include these filters in the dashboard to control and restrict the visibility of data in all charts. 
+## **Category, subcategory, region, state, city filters:** Include these filters in the dashboard to control and restrict the visibility of data in all charts. 
 </br>
 <div align = "center" >
 <img width="205" alt="Screenshot 2024-08-01 at 10 32 08 AM" src="https://github.com/user-attachments/assets/94198f2c-afd7-4958-83e2-a52c88521ee3">
