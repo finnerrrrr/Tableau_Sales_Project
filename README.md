@@ -79,7 +79,7 @@ Requirements: Present data for each KPI on monthly basis for current and previou
 </div>
 </br>
 
-### Customer distribution by Number od Orders
+### Customer distribution by Number of Orders
 Requirements: Distribution of Customers based on number of orders, provide insights on customer behaviour, loyalty and enagagement. 
 
 **Customer distribution by number of orders:** Use a histrogram to display the distribution. 
